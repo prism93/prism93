@@ -1,6 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+# Hey, me chamo Priscila 👋 
+sou uma profissional em transição de carreira, quero expandir meus conhecimentos e ganhar novas experiências para ser uma Dev FrontEnd
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priscilasemper) 
